@@ -7,6 +7,7 @@ Project on Employment Data (Bulgaria)
 * get the html for each job
 * get the technologies for the position
 * get the views for each job
+* Extract the location for each job https://github.com/dbonev91/Bulgaria-Towns-JSON
 
 ## Ideas for Analysis
 * position seasonality
