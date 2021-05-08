@@ -1,12 +1,8 @@
 # Employment-Data
-Project on Employment Data (Bulgaria)
+This repository contains Jupyter Notebooks which allows an user to scrape job details from the jobs.bg web application. Currently, we're using Selenium and Beautiful Soup for the most of the job.
 
 # TODOs
 ## Data to gather
-* stars for the job and the color for the rating
-* get the html for each job
-* get the technologies for the position
-* get the views for each job
 * Extract the location for each job https://github.com/dbonev91/Bulgaria-Towns-JSON
 
 ## Ideas for Analysis
