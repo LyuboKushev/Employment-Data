@@ -1,2 +1,4 @@
 .ipynb_checkpoints
-
+.DS_Store
+ghostdriver.log
+drivers/.DS_Store
